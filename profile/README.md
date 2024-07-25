@@ -1,5 +1,5 @@
 # rokda 
-An invetment and personal finance tool
+An investment and personal finance tool
 
 <!--
 
